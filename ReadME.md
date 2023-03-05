@@ -67,3 +67,27 @@ In addition, the accuracy of the chatbot's answers depends on the quality of the
 
 ## Conclusion
 This NLTK and Wikipedia chatbot project can be useful for those who want to create an application that responds to user questions in an automated way. Although it has its limitations, the chatbot is able to handle a wide variety of questions and can be improved over time to offer more accurate and comprehensive answers.
+
+
+Quer ajudar? Basta fazer uma doação ❤️
+Want to help? Just make a donation ❤️
+
+Cryptocurrency
+Ethereum Mainnet - ETH, USDT >>> Outra criptomoeda para rede / Another cryptocurrency for networking <<<
+Binance Smart Chain - BNB, BUSD >>> Outra criptomoeda para rede / Another cryptocurrency for networking <<<
+Polygon MATIC, wETH, USDC >>> Outra criptomoeda para rede / Another cryptocurrency for networking <<<
+
+Wallet: 0x8f424A6360BAf9d4111994ad2fDb0adC25004Eb3
+
+Binance Pay
+Pay ID: 240356717
+
+PayPal
+dgarcia.saltori@me.com
+
+PIX >>> Apenas para o Brasil - Only for Brazil <<<
+Chave PIX: dgarcia.saltori@gmail.com
+
+Meu YouTube: https://youtube.com/@diego.saltori 
+Meu Instagram: http://instagram.com/diego.saltori 
+Meu LinkedIn: https://www.linkedin.com/in/dgarciasaltori/
